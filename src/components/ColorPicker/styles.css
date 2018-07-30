@@ -1,0 +1,19 @@
+.color-palete {
+    margin-top: 10px;
+    display: inline-flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.color {
+    width: 30px;
+    height: 20px;
+    margin-right: 10px;
+    border: 3px solid lightslategray;
+    border-radius: 5px;
+}
+
+.active-color {
+    border: 5px solid orchid;
+}

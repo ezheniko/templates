@@ -1,0 +1,8 @@
+.edit-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ddd;
+    color: #000;
+    font-size: 16px;
+}

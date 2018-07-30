@@ -1,0 +1,17 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.editable {
+    height: 30px;
+    line-height: 30px;
+    outline: 1px solid indigo;
+    cursor: pointer;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.editable:hover {
+    outline: thick double #32a1ce;
+}
